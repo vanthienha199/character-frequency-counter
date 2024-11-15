@@ -1,0 +1,11 @@
+# Ignore IntelliJ project files
+.idea/
+character-frequency-counter.iml
+
+# Ignore compiled output files
+out/
+
+# Ignore any other files except the following
+!src/
+!README.md
+!.gitignore
